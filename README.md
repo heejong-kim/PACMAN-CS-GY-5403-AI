@@ -10,3 +10,6 @@ pacman_search_HILLCLIMBER_GENETIC_MCTS :
 - Hill climber 
 - Genetic algorithm
 - Monte Carlo tree search (MCTS) 
+
+pacman_COMPETITION 
+- A star (A*) algorithm with reachable maze distance
